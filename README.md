@@ -33,6 +33,7 @@ The app follows a simple Model-View-ViewModel (MVVM) architecture without any de
 * RecyclerView
 * Viewmodel
 * Lifecycle
+* Junit and Mockk for Unit Testing
 
 ## How to run
 
