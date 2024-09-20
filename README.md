@@ -20,7 +20,7 @@ The app uses the following publicAPI to fetch the list of countries:
 
 ## Architecture
 
-The app follows a simple Model-View-ViewModel (MVVM) architecture without any dependency injection framework.
+The app follows a simple Model-View-ViewModel (MVVM) and Clean Architecture principles without any dependency injection framework.
 
 * **Data:** Represents the country data.
 * **Presentation:** Displays the list of countries using a `RecyclerView`.
