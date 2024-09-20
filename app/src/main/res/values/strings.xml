@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountryListApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="country_name">Country name</string>
+    <string name="country_code">Country code</string>
+    <string name="country_capital">Country capital</string>
+</resources>
