@@ -16,7 +16,7 @@ The app uses the following publicAPI to fetch the list of countries:
 
 ## Screenshots
 
-<img src="screenshot1.png" width="300"> <img src="screenshot2.png" width="300">
+<img src="https://github.com/ArturoMarmolejo/CountryListApp/blob/master/app/src/main/res/drawable/screenshot_1.png" width="300">
 
 ## Architecture
 
@@ -48,4 +48,4 @@ The app follows a simple Model-View-ViewModel (MVVM) architecture without any de
 * Implement a Domain Layer with use cases if we have more functionalities/repository methods to add
 * Add SlidingPaneLayout in case we have a detail screen to display, for bigger screens
 * Use Jetpack Navigation in case we have more screens to display
-* 
+* Migrate to Jetpack Compose since it is the recommended approach for new applications
