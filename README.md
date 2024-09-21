@@ -1,6 +1,6 @@
 # Country App
 
-This is a simple Android application that displays a list of countries fetched from a public API.
+Android application that displays a list of countries fetched from a public API.
 
 ## Features
 
