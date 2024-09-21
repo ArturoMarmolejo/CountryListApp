@@ -1,6 +1,6 @@
 # Country App
 
-This is a simpleAndroid application that displays a list of countries fetched from a public API.
+This is a simple Android application that displays a list of countries fetched from a public API.
 
 ## Features
 
@@ -10,7 +10,7 @@ This is a simpleAndroid application that displays a list of countries fetched fr
 
 ## API
 
-The app uses the following publicAPI to fetch the list of countries:
+The app uses the following public API to fetch the list of countries:
 
 [https://gist.githubusercontent.com/peymano-wmt/32dcb892b06648910ddd40406e37fdab/raw/db25946fd77c5873b0303b858e861ce724e0dcd0/countries.json](https://gist.githubusercontent.com/peymano-wmt/32dcb892b06648910ddd40406e37fdab/raw/db25946fd77c5873b0303b858e861ce724e0dcd0/countries.json)
 
